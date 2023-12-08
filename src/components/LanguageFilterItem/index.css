@@ -1,0 +1,13 @@
+.itemsty {
+  padding: 15px;
+  margin: 30px;
+  border-radius: 25px;
+}
+#but1:hover {
+  background-color: firebrick;
+  cursor: pointer;
+}
+
+.testy {
+  font-family: 'Lobster';
+}
